@@ -1,6 +1,6 @@
 # Medical Price Cost Prediction
 
-<img scr="https://github.com/heistsergio/Medical-price-cost-prediction/blob/7bfb6d7dce9d0e1470e85cf74ad769dce17ec052/medical%20price%20cost%20prediction.jpeg" />
+<img scr="https://github.com/heistsergio/Medical-price-cost-prediction/blob/9d7c0fb35a66ee100ea7da9ba58b37033a5557ec/medical%20price%20cost%20prediction.jpeg" />
 
 ## Overview
 
