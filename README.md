@@ -1,6 +1,6 @@
 # Medical Price Cost Prediction
 
-![Medical Price Cost Prediction](medical_cost_prediction.png)
+![Medical Price Cost Prediction]([medical_cost_prediction.png](https://github.com/heistsergio/Medical-price-cost-prediction/blob/7bfb6d7dce9d0e1470e85cf74ad769dce17ec052/medical%20price%20cost%20prediction.jpeg))
 
 ## Overview
 
@@ -8,7 +8,7 @@ This project aims to predict the cost of medical procedures using machine learni
 
 ## Dataset
 
-The dataset used in this project was obtained from Kaggle ([link to dataset](insert_link_here)). It contains comprehensive information regarding medical procedures, including patient demographics, region, type of treatments, and associated costs.
+The dataset used in this project was obtained from Kaggle ([link to dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance/download?datasetVersionNumber=1)). It contains comprehensive information regarding medical procedures, including patient demographics, region, type of treatments, and associated costs.
 
 ## Preprocessing
 
