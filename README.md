@@ -1,7 +1,5 @@
 # Medical Price Cost Prediction
 
-<img scr="https://github.com/heistsergio/Medical-price-cost-prediction/blob/9d7c0fb35a66ee100ea7da9ba58b37033a5557ec/medical%20price%20cost%20prediction.jpeg" />
-
 ## Overview
 
 This project aims to predict the cost of medical procedures using machine learning techniques. Leveraging a dataset sourced from Kaggle and utilizing the scikit-learn library's linear regression model, this predictive model estimates the expenses associated with various medical procedures.
